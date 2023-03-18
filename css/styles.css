@@ -202,6 +202,10 @@ color: #434455;
 background-color: #FFFFFF;
 }
 
+.team-items{
+background-color: #F4F4FD;
+}
+
 .portfolio-list {
     list-style: none;
 }
